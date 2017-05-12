@@ -4,7 +4,7 @@ module.exports = {
   ],
   output: {
     path: __dirname,
-    publicPath: '/react-youtube/',
+    publicPath: '/simple-react-youtube/',
     filename: 'bundle.js'
   },
   module: {
