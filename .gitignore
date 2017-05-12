@@ -3,7 +3,6 @@ bundle.js
 npm-debug.log
 .DS_Store
 
-/src/config.js
 # IntelliJ
 *.iml
 /.idea
