@@ -1,10 +1,10 @@
 module.exports = {
   entry: [
-    './src/index.js'
+    '.simple-react-youtube/src/index.js'
   ],
   output: {
     path: __dirname,
-    publicPath: '/simple-react-youtube/',
+    publicPath: '/',
     filename: 'bundle.js'
   },
   module: {
