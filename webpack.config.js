@@ -1,6 +1,6 @@
 module.exports = {
   entry: [
-    'simple-react-youtube/src/index.js'
+    'src/index.js'
   ],
   output: {
     path: __dirname,
